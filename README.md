@@ -73,7 +73,7 @@ The application only has a frontend page:
  ```bash
 
  # Clone the Repository
- $ git clone https://github.com/ViniciusResende/ReactQuiz.git
+ $ git clone https://github.com/ViniciusResende/TwitterClone.git
  
  # Enter the poject folder in the Terminal
  $ cd TwitterClone
