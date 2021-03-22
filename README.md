@@ -114,8 +114,6 @@ Those following tools were used in the project development:
  
  ## :trophy: Acknowledgment
 
-## :trophy: Acknowledgment
-
 <a href="https://rocketseat.com.br/">
  	<img src="https://pbs.twimg.com/profile_images/1291682473592659968/sEorc6oh.jpg" width="300px;" alt="freeCodeCamp-logo"/>
  </a> 
