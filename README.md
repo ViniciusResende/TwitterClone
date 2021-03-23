@@ -23,7 +23,7 @@
 
 :comet:  Twitter Clone - The project was made visioning to be a clone of the Twitter web interface, appling all these visual functionalities by developing a project that have used Typescript, React and styled-components. 
 
-:rocket: Build a Quiz App - React / Typescript Tutorial - Build a Quiz App - Is a course that intend to develop a contact between React and TypeScript, developing an Application to put the knowledge in practice. After the course app conclusion, I added some new features to the application.
+:rocket: Twitter Responsivo com ReactJS | UI Clone #6 - Is a course that intend to develop a contact between React and TypeScript, developing an Application to put the knowledge in practice. After the course app conclusion, I added some new features to the application.
 
 :chart_with_upwards_trend: The project was an essential opportunity to develop skills with [TypeScript](https://www.typescriptlang.org/), [ReactJS](https://reactjs.org/) and [styled-components](https://styled-components.com/).  
 
